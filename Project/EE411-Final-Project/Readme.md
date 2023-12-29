@@ -4,8 +4,11 @@
 ## Overview
 
 `50-SF_decoder.py` used for decoding and restoring to the original image.
+
 `50-SF.txt` is the encoded file.
+
 `50-SF.jpg` is the decoded file.
+
 [`utils`](https://github.com/jeter1112/dna-fountain-simplified/tree/main/py2ImagDecode/utils) comes from https://github.com/jeter1112/dna-fountain-simplified/tree/main/py2ImagDecode/utils.
 
 
