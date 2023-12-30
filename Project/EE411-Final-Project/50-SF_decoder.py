@@ -33,7 +33,7 @@ def droplet_recovery(dna):
         corrected_byte_groups = rs.decode(byte_groups)[0]    
     except:
         # Exclude the sequence with error, which is founded by RS code
-        return None, -1   
+        return None  
     # Extract Seed, data payload from the sequence
     seed_bytes = ''.join(chr(byte) for byte in corrected_byte_groups[:seed_size])
     seed = sum(ord(char) << (8 * i) for i, char in enumerate(seed_bytes[::-1]))
