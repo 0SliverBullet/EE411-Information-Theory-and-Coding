@@ -1,4 +1,4 @@
-# EE411 Final Project
+# EE411 Final Project (94/100)
 
 
 ## Overview
@@ -34,4 +34,5 @@ INFO:root:Restoring the picture now!
 INFO:root:MD5 is b4c92ee632d5be073e1fc0a16902bd7c
 INFO:root:Done!
 ```
+
 
